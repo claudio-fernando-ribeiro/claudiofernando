@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "d:\\Meus documentos\\Downloads\\mariadb-java-client-3.0.6.jar"
+        ],
+        "exclude": [
+            "lib/mariadb-java-client-3.0.5.jar"
+        ]
+    }
+}

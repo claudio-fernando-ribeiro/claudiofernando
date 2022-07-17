@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title> Cláudio Fernando </title>
+</head>
+<body> 
+    <HEADER> 
+        <img src="1650415464810.jpg">
+        <h1>Cláudio Fernando </h1>
+        </HEADER>
+<selection>  
+    <header> 
+        <h2>Post</h2>
+    </header>
+    <article>
+        <header>
+            <h3> Post #1 </h3>
+        </header>
+        <p> 
+            <img src="astronaut-6863285__340.jpg">
+            
+
+            <a href="https://www.linkedin.com/in/claudio-fernando-ribeiro-328a72139/"> A afirmação é de Catherine Mann</a>, membro do Comitê de política monetária da instituição, 
+            ressaltando que a fraqueza da libra está aumentando as pressões inflacionárias do Reino Unido.
+            <a href= "https://www.linkedin.com/in/claudio-fernando-ribeiro-328a72139/" target="blank"> Segundo a Reuters</a> , Mann votou sem sucesso por um aumento de meio ponto nas taxas de juros na semana passada, mas foi vencida (o BoE subiu a taxa em 0,25 ponto para 1,25%) e afirmou que os últimos movimentos de aperto do Fed dos EUA e a probabilidade de medidas semelhantes do Banco Central Europeu estão pressionando a libra esterlina.
+        </p>
+    </article>
+</selection>
+<footer>
+<ul>
+    <li>
+        <a href=mailto:claudiofernando@gmail.com>claudiofernando@gmail.com</a>
+    </li>
+    <li>
+        <a href="https://www.linkedin.com/in/claudio-fernando-ribeiro-328a72139/"> Linkedin</a>
+    </li>
+
+</ul>
+
+</footer>
+    </body>
+</html>
