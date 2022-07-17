@@ -32,5 +32,4 @@ public class Hospede {
     public void setTelefone(String telefone) {
         this.telefone = telefone;
     }
-    
 }
